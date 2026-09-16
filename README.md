@@ -222,6 +222,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## Photo, Metadata, and Media Privacy
 
+- [AI Coloring Page Generator](https://photlin.com/) - Turns a photo into printable black-and-white line art entirely in the browser, so the image never leaves the device.
 - [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) - Android app for removing image metadata.
 - [ExifTool](https://exiftool.org/) - Read, write, and remove metadata from media files.
 - [ImageOptim](https://imageoptim.com/mac) - Image optimizer for macOS that can remove metadata.
